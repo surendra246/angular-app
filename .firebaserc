@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfirebase-app-be68a": {
+      "hosting": {
+        "my-app": [
+          "angularfirebase-app-be68a"
+        ]
+      }
+    }
+  }
+}
